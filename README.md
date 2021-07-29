@@ -24,3 +24,10 @@ ping interval 0.1 count 1000 8.8.8.8
 ```
 clear pppoe interface ten0/3/0.600
 ```
+## Comandos Huawei
+
+**Comando para forçar a porta**
+
+```
+Undo negotation auto
+```
